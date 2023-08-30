@@ -2,7 +2,7 @@ import React from "react";
 
 export default function NavBar() {
   return (
-    <div className=" h-fit w-full flex justify-start items-center">
+    <div className=" h-fit w-full mt-2 mb-4 flex ml-80 justify-start items-center">
       <div>
         <svg
           width="63"
